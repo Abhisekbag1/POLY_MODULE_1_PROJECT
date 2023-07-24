@@ -1,9 +1,9 @@
 ## POLY_PROOF_MODULE_1_PROJECT
 
 For this project, you will deploy an NFT collection on the Ethereum blockchain, Map the collection to Polygon, and Transfer assets over via the Polygon Bridge.
-. Approve the NFTs to be transferred.
-. Deposit the NFTs to the Bridge.
-. Test balanceOf on Mumbai.
+# Approve the NFTs to be transferred.
+# Deposit the NFTs to the Bridge.
+# Test balanceOf on Mumbai.
 Deploy an ERC721 to the Goerli Ethereum Testnet.
 
 ## Getting Started
