@@ -18,7 +18,7 @@ Download the codes by downloading the entire repository
 
 ```
 
-### Deploying the ERC721 Contract:
+### Deployment the ERC721 Contract:
 
 ``` shell
 npx hardhat run scripts/deploy.js --network goerli 
