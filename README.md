@@ -12,7 +12,7 @@ Write a hardhat script to batch mint all NFTs.
 # Test balanceOf on Mumbai.
 Deploy an ERC721 to the Goerli Ethereum Testnet.
 
-## Getting Started And Compile
+## Getting Started And Compile Step by step
 
 ### Executing program
 
