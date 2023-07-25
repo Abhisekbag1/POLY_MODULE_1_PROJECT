@@ -1,6 +1,12 @@
 ## POLY_PROOF_MODULE_1_PROJECT
 
-For this project, you will deploy an NFT collection on the Ethereum blockchain, Map the collection to Polygon, and Transfer assets over via the Polygon Bridge.
+For this project, you will deploy an NFT collection on the Ethereum blockchain, Map the collection to Polygon, and Transfer assets over via the Polygon Bridge.Generate a 5-item collection using DALLE 2 or Midjourney
+Store items on IPFS using pinata.cloud
+Deploy an ERC721 or ERC1155 to the Goerli Ethereum Testnet
+You should have a promptDescription function on the contract that returns the prompt you used to generate the images
+Map Your NFT Collection using Polygon network token mapper. Note: this isn’t necessary but helpful for visualization.
+Write a hardhat script to batch mint all NFTs. Hint: ERC721A is optimal here.
+
 # Approve the NFTs to be transferred.
 # Deposit the NFTs to the Bridge.
 # Test balanceOf on Mumbai.
