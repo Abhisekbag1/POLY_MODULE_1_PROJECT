@@ -23,7 +23,7 @@ Download the codes by downloading the entire repository
 ``` shell
 npx hardhat run scripts/deploy.js --network goerli 
 ```
-## NOTE:
+## Main Point:
 After deploying the address will generate. So, copy that address into `contarctAddress.js` and also in `batchMint.js`
 
  
@@ -33,7 +33,7 @@ After deploying the address will generate. So, copy that address into `contarctA
 npx hardhat run scripts/batchMint.js --network goerli
 ```
 
-### Approve and Deposit NFTs to Polygon Mumbai
+### Approved and Deposit NFTs to Polygon Mumbai
 
 ```shell
 npx hardhat run scripts/approvedDeposit.js --network goerli
