@@ -33,7 +33,7 @@ npx hardhat run scripts/deploy.js --network goerli
 After deploying the address will generate. So, copy that address into `contarctAddress.js` and also in `batchMint.js`
 
  
-## Run the following command to batch-mint NFTs using the deployed ERC721 contract:
+## Compile the command to batch-mint NFTs using the deployed ERC721 contract:
 
 ``` shell
 npx hardhat run scripts/batchMint.js --network goerli
